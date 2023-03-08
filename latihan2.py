@@ -1,0 +1,1 @@
+print("Dea sehat")
